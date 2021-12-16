@@ -99,3 +99,25 @@ ncurses-base      6.2+20201114-2                 CVE-2021-39537       Negligible
 ncurses-bin       6.2+20201114-2                 CVE-2021-39537       Negligible
 wget              1.21-1+b1         (won't fix)  CVE-2021-31879       Medium
 ```
+
+## storm
+```
+log4j-1.2-api                                 2.11.2                              CVE-2021-44228       Critical
+log4j-api                                     2.11.2                              CVE-2021-44228       Critical
+log4j-core                                    2.11.2                              CVE-2021-44228       Critical
+log4j-slf4j-impl                              2.11.2                              CVE-2021-44228       Critical
+log4j-web                                     2.11.2                              CVE-2021-44228       Critical
+maven-artifact                                3.6.0                               CVE-2021-26291       Critical
+maven-builder-support                         3.6.0                               CVE-2021-26291       Critical
+maven-model                                   3.6.0                               CVE-2021-26291       Critical
+maven-model-builder                           3.6.0                               CVE-2021-26291       Critical
+maven-repository-metadata                     3.6.0                               CVE-2021-26291       Critical
+maven-resolver-api                            1.3.3                               CVE-2021-26291       Critical
+maven-resolver-connector-basic                1.3.3                               CVE-2021-26291       Critical
+maven-resolver-impl                           1.3.3                               CVE-2021-26291       Critical
+maven-resolver-provider                       3.6.0                               CVE-2021-26291       Critical
+maven-resolver-spi                            1.3.3                               CVE-2021-26291       Critical
+maven-resolver-transport-file                 1.3.3                               CVE-2021-26291       Critical
+maven-resolver-transport-http                 1.3.3                               CVE-2021-26291       Critical
+maven-resolver-util                           1.3.3                               CVE-2021-26291       Critical
+```
